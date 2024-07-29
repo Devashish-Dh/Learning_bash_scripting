@@ -3,3 +3,4 @@ this is how i am able to use the ">" to send the output of this terminal to the 
 the ">>" is how i am able to append any and all output of this terminal to the file.txt file
 
 use the super+d to come out of this editor mode and send the output
+apparently we can use break and continue the same way as in python/c++, yay!
