@@ -1,0 +1,16 @@
+total 52
+drwxrwxr-x 3 ved ved 4096 Aug  2 21:44 .
+drwxrwxr-x 3 ved ved 4096 Jul 29 21:44 ..
+-rwxrwxr-x 1 ved ved  302 Jul 29 22:15 commenting.sh
+-rwxrwxr-x 1 ved ved 1145 Jul 29 22:48 conditionals.sh
+-rw-rw-r-- 1 ved ved    0 Aug  2 21:44 file1_redirecting.txt
+-rw-rw-r-- 1 ved ved    0 Aug  2 21:44 file2_redirecting.txt
+-rw-rw-r-- 1 ved ved  334 Jul 29 23:01 file.txt
+drwxrwxr-x 8 ved ved 4096 Jul 29 23:02 .git
+-rwxrwxr-x 1 ved ved  245 Jul 29 22:03 helloScript.sh
+-rwxrwxr-x 1 ved ved  437 Jul 29 22:20 heredoccommand.sh
+-rwxrwxr-x 1 ved ved  610 Aug  2 20:46 inputting.sh
+-rwxrwxr-x 1 ved ved  391 Jul 29 22:58 iterative.sh
+-rwxrwxr-x 1 ved ved  380 Aug  2 20:54 readfile.sh
+-rw-rw-r-- 1 ved ved  118 Jul 29 21:44 README.md
+-rwxrwxr-x 1 ved ved  167 Aug  2 21:42 redirecting_outputs.sh
