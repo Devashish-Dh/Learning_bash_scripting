@@ -3,9 +3,9 @@ drwxrwxr-x 3 ved ved 4096 Aug  2 21:48 .
 drwxrwxr-x 3 ved ved 4096 Jul 29 21:44 ..
 -rwxrwxr-x 1 ved ved  302 Jul 29 22:15 commenting.sh
 -rwxrwxr-x 1 ved ved 1145 Jul 29 22:48 conditionals.sh
--rw-rw-r-- 1 ved ved    0 Aug  2 21:48 file1_redirecting.txt
+-rw-rw-r-- 1 ved ved  908 Aug  2 21:48 file1_redirecting.txt
 -rw-rw-r-- 1 ved ved    0 Aug  2 21:48 file2_redirecting.txt
--rw-rw-r-- 1 ved ved  908 Aug  2 21:47 file3_redirecting.txt
+-rw-rw-r-- 1 ved ved    0 Aug  2 21:48 file3_redirecting.txt
 -rw-rw-r-- 1 ved ved  334 Jul 29 23:01 file.txt
 drwxrwxr-x 8 ved ved 4096 Aug  2 21:45 .git
 -rwxrwxr-x 1 ved ved  245 Jul 29 22:03 helloScript.sh
